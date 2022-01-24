@@ -1,23 +1,20 @@
 # Frontend Mentor - MERN Invoice app
 
-This project is a Frontend Mentor project that I found on [Frontend Mentor](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl)
+This project comes from the [Frontend Mentor](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl) site. The goal is to create a site that manages users' invoices. So I decided to code this project myself using React for the front end and NodeJS for the back end.
 
-## The Goal of this project
+To find the website follow this [link](https://mern-invoice-app.herokuapp.com/)
 
-The goal of this project is to create a full stack project using NodeJS and React.
-
-### Technology used
-
-To code this website I used:
+### Technology
 
 - MongooDB
 - Express
 - React
 - NodeJS
 - Styled Components
+- Redux
 
 ### Find me
 
-If you want to contavt me you can find me on [twitter](https://twitter.com/Mathis1Humbert).
+You can find my [portfolio](https://mathis-humbert-portfolio.netlify.app/).
 
-To find the code follow this [github link](https://github.com/MathisHumbert/mern-invoice-app)
+You can find more information about my background, my skills and what motivates me via this [link](https://www.notion.so/mathis-humbert-cv/MATHIS-HUMBERT-787daaffef33440f8385b92e908de901?p=64ee085b39934d17b6c6653f79ee9eb6).
