@@ -1,4 +1,4 @@
-# Frontend Mentor - MERN Invoice app
+# MERN Invoice app - FrontEnd Mentor
 
 This project comes from the [Frontend Mentor](https://www.frontendmentor.io/challenges/invoice-app-i7KaLTQjl) site. The goal is to create a site that manages users' invoices. So I decided to code this project myself using React for the front end and NodeJS for the back end.
 
